@@ -5,7 +5,7 @@
     builders:
       - shell: |
           #!/bin/bash -xe
-          echo "Hello world, this is the {vendor} Testing System"
+          echo "Hello world, this is the HP-Proliant Testing System"
 
 
 - job-template:
